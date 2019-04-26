@@ -22,6 +22,20 @@
                          Regularisation 
                          Optimisation 
                          
+               6. __Third COurse__ : Structure ML model : 
+                          New best practices 
+                          Train and test group different
+                          End to end modelling
+                          
+               7. __Fourth Course__ : Convolutional Neural Network : 
+               
+               8. __ Fifth Course __ : Building Sequene Model 
+               
+                                      RNN 
+                                      LSTM models for NLP
+  
+  Next lecture to apply for Supervised Learning 
+                         
                 
                 
                 
